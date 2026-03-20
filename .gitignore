@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+
+# Exploit/recon scripts (target-specific, not part of the tool)
+/exploit_*.py
+/recon_*.py
+dns_analysis.py
+http_analysis.py
+security_analysis.py
+probe_*.py
+ftp_probe.py
+firebase_api_probe.py
+supabase_audit*.py
+web_deep_analysis.py
+
+# Reports (contain sensitive data)
+relatorios/
+
+# Env
+.env

@@ -1,0 +1,5 @@
+click>=8.0
+httpx>=0.24
+aiodns>=3.0
+python-whois>=0.8
+rich>=13.0
