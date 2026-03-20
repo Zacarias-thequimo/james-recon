@@ -378,4 +378,4 @@ MIT
 
 ## Autor
 
-**Gelson Matavela** ([@Zacarias-thequimo](https://github.com/Zacarias-thequimo))
+**Zacarias Thequimo** ([@Zacarias-thequimo](https://github.com/Zacarias-thequimo))
